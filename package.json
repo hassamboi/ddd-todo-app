@@ -1,7 +1,7 @@
 {
   "name": "ddd-todo-app",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "ts-node src/http/server.ts",
     "dev": "nodemon src/http/server.ts",
